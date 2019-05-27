@@ -77,19 +77,7 @@ else:
     print("\nPlayers hand is:\n")
     print(player_hand[0].__str__()+" "+player_hand[1].__str__()+" "+player_hand[2].__str__())
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-# GAMEPLAY!
+#starting the game here
 
 while True:
     print('Welcome to BlackJack! Get as close to 21 as you can without going over!\n\
